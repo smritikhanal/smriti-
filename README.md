@@ -1,3 +1,3 @@
 # smriti-
-My second repo
+My second Repo.
 Author - Smriti Khanal
